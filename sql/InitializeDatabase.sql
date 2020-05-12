@@ -11,5 +11,5 @@ CREATE TABLE mailingList(
 	phoneNumber VARCHAR(15) NOT NULL,
 	emailAddress VARCHAR(100) NOT NULL,
 	referrer VARCHAR(15) NOT NULL,
-	PRIMARY KEY (_id)
+	PRIMARY KEY (id)
 	);
