@@ -31,7 +31,7 @@
 		 <p>WP Eatery is opening their doors, to serve you better!</p> 
 		 <p>We are a Family Dining Restaurant, with a wide variety of lunch & dinner items.</p> 
 		 <p>We also have a wide variety of delicious mouth watering desserts to offer.</p>
-		 <p>We look forward to see you!</p>
+		 <p>We look forward to seeing you!</p>
          <h3>Great Food, Great Service</h3>
 		 <br>
 		 
