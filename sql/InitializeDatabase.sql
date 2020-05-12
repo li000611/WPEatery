@@ -5,8 +5,8 @@ FLUSH PRIVILEGES;
 
 USE wp_eatery;
 
-CREATE TABLE mailingList(
-	_id int not null AUTO_INCREMENT,
+CREATE TABLE mailinglist(
+	id int not null AUTO_INCREMENT,
 	customerName VARCHAR(50) NOT NULL,
 	phoneNumber VARCHAR(15) NOT NULL,
 	emailAddress VARCHAR(100) NOT NULL,
