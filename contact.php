@@ -73,6 +73,7 @@ require_once('./dao/customerDao.php');
     }
 
  */
+		/*
 		// To File upload to directory named 'file' 
 		if(isset($_POST["myfile"])){
 			$path = 'files/';
@@ -84,6 +85,7 @@ require_once('./dao/customerDao.php');
 				echo "<script>alert('Failed!');</script>";   // To show alert message when file upload failed.
 			}
 		}
+		*/
         }
     }
     
